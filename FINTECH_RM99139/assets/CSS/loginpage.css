@@ -1,0 +1,89 @@
+body {
+    font-family: 'Didact Gothic', sans-serif;
+    background-color:#e0bb00;
+}
+
+h1 {
+    font-size: 45px;
+    font-weight: 200;
+    text-shadow: rgb(24, 19, 1) 1px 0 10px;
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 7px;
+    margin-top: 10%;
+}
+
+.techbank {
+    max-width: 25%;
+    border-radius: 10px;
+    margin: auto;
+    display: flex;
+    justify-content: center
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 400;
+    text-shadow: rgb(24, 19, 1) 1px 0 10px;
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 7px;
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+
+.btn {
+    font-size: 16px;
+    font-weight: 400;
+    text-shadow: rgb(24, 19, 1) 1px 0 10px;
+    text-align: left;
+    word-spacing: 10px;
+    letter-spacing: 7px;
+    margin-left: 4%;
+    margin-top: 4px;
+}
+
+.google {
+    width: auto;
+    margin: auto;
+    padding-top: 2px;
+    margin-left: 5%;
+    margin-top: 3px;
+    display: flex;
+}
+
+.facebook {
+    width: auto;
+    margin: auto;
+    padding-top: 2px;
+    margin-left: 5%;
+    margin-top: 3px;
+    display: flex;
+}
+
+.email {
+    width: auto;
+    margin: auto;
+    padding-top: 2px;
+    margin-left: 5%;
+    margin-top: 3px;
+    display: flex;
+}
+
+.container {
+    background-color: #cfae08;
+    border-color: #5c5604;
+    border-radius: 17px;
+    padding: 17px;
+    font-size: 25px;
+    font-weight: 200;
+    text-shadow: rgb(24, 19, 1) 1px 0 10px;
+    text-align: center;
+    word-spacing: 9px;
+    letter-spacing: 6px;
+    margin: auto;
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    max-width: 300px;
+}
